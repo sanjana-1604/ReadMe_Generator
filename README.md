@@ -1,9 +1,9 @@
 # first project
 
-  [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![APACHE_2.0](https://img.shields.io/badge/License-APACHE_2.0-blue.svg)](https://opensource.org/licenses/APACHE_2.0)
 
 ## Description
-creating README using nodejs
+created README using nodejs
 
 ## Table of Contents
 
@@ -20,10 +20,10 @@ To install necessary dependencies, the the following command:
     npm i
 
 ## Usage
-try it
+it helps in creating professional README file for project
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the APACHE_2.0 license.
 
 ## Contributing
 help
